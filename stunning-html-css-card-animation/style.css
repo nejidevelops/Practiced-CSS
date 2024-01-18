@@ -89,3 +89,19 @@ input:checked + label .description {
   opacity: 1 !important;
   transform: translateY(0) !important;
 }
+
+.card[for="c1"] {
+  background-image: url("https://cdn.pixabay.com/photo/2022/11/13/20/29/town-7590138_640.jpg");
+}
+
+.card[for="c2"] {
+  background-image: url("https://cdn.pixabay.com/photo/2020/04/08/16/32/keyboard-5017973_640.jpg");
+}
+
+.card[for="c3"] {
+  background-image: url("https://cdn.pixabay.com/photo/2015/01/15/16/17/hands-600497_640.jpg");
+}
+
+.card[for="c4"] {
+  background-image: url("https://cdn.pixabay.com/photo/2020/04/08/16/32/keyboard-5017973_640.jpg");
+}
